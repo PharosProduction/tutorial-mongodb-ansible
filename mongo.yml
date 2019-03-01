@@ -1,0 +1,5 @@
+---
+- name: install
+  hosts: mongo-test
+  roles:
+    - mongodb

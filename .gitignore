@@ -1,0 +1,4 @@
+*.retry
+dockerpass.txt
+.DS_Store
+*.pem
